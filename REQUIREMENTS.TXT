@@ -2,8 +2,9 @@ streamlit
 numpy
 pandas
 scikit-learn
-joblib
-fpdf
 plotly
 matplotlib
 shap
+fpdf
+kaleido
+joblib
